@@ -1,0 +1,13 @@
+Definició del servei web:
+
+Funcionalitats:
+    -Cerca
+    -Catergories
+    -Detalls llibre (Títol, Autor, Descripció, Preu)
+    -Comprar (carro)
+    -Introduir, editar, eliminar llibres
+    -Registre vendes
+
+Usuàris:
+    -Admin: permisos per editar, introduir, eliminar llibres. Accés al registre de vendes.
+    -User: permisos per comprar, tenir registre de les seves compres.
