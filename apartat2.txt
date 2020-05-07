@@ -1,13 +1,14 @@
 Definició del servei web:
 
 Funcionalitats:
-    -Cerca
-    -Catergories
-    -Detalls llibre (Títol, Autor, Descripció, Preu)
-    -Comprar (carro)
-    -Introduir, editar, eliminar llibres
-    -Registre vendes
+    -Cerca d'entrenaments
+    -registre usuari
+    -Catergories entrenaments
+    -Detalls entrenament (Títol, exercicis, repeticions, sets, ...).
+    -Seguir entrenament (Afegir entrenament a llista de preferits).
+    -Fer entrenament
+    -Introduir, editar, eliminar entrenament
+    -Registre d'entrenaments
 
 Usuàris:
-    -Admin: permisos per editar, introduir, eliminar llibres. Accés al registre de vendes.
-    -User: permisos per comprar, tenir registre de les seves compres.
+    -User: Pot crear, editar, eliminar entrenaments creats seus. Seguir entrenaments de la app. 
