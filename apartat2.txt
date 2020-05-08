@@ -13,4 +13,4 @@ Funcionalitats:
     -Registre d'entrenaments
 
 Usuàris:
-    -User: Pot crear, editar, eliminar entrenaments creats seus. Seguir entrenaments de la app. 
+    -User: Pot crear, editar, eliminar entrenaments. "Executar" entrenaments y mantenir un registre del progrés. 
