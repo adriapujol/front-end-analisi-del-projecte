@@ -1,8 +1,10 @@
 Definició del servei web:
 
+App que et permet crear workouts i poder executar-los. Permetent a l'usuari mantenir un seguiment del progrés, apuntant sets, repeticions, pes, etc.
+
 Funcionalitats:
     -Cerca d'entrenaments
-    -registre usuari
+    -Login i Sign In d'usuaris
     -Catergories entrenaments
     -Detalls entrenament (Títol, exercicis, repeticions, sets, ...).
     -Seguir entrenament (Afegir entrenament a llista de preferits).
